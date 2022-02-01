@@ -6,7 +6,7 @@
 
 [Erivan Oliveira](https://github.com/Erivan2400)
 
-[Saul](https://github.com/saulzera)
+[Saul Oliveira](https://github.com/saulzera)
 
 [Vinicius Mendes](https://github.com/vmendes93)
 
@@ -89,7 +89,7 @@ Obs: se ele comprou um produto que possuir valores nas três colunas de categori
 Normalize a coluna Purchase. A fórmula de normalização é:
 
 
-$$x_{norm} = \frac{x - x_{min}}{x_{max} - x_{min}} $$
+<img src="https://render.githubusercontent.com/render/math?math=x = \frac{x - X_{min}}{X_{max}-X_{min}}" >
 
 ## Questão 12
 O estado civil influencia no valor gasto e na categoria de produto comprada? Mostre!
